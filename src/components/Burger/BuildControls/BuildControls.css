@@ -20,6 +20,7 @@
   padding: 15px 30px;
   box-shadow: 2px 2px 2px #966909;
   width: 200px;
+  margin: auto;
 }
 
 .OrderButton:hover,
